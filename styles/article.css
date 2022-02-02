@@ -1,0 +1,9 @@
+.wp-block-quote cite strong{
+    @apply py-3 pr-4 border-r-4 border-primary italic font-medium;
+}
+.wp-block-quote cite{
+    @apply py-3 pr-4 border-r-4 border-primary italic font-medium;
+}
+.wp-block-quote p{
+    @apply py-3 pr-4 border-r-4 border-primary italic font-medium;
+}
